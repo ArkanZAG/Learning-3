@@ -1,0 +1,15 @@
+C:\Users\Arkan Zahrawaani\Documents\GitHub\Learning-2\Learning-3\Learning-3\bin\Debug\net7.0\Learning-3.exe
+C:\Users\Arkan Zahrawaani\Documents\GitHub\Learning-2\Learning-3\Learning-3\bin\Debug\net7.0\Learning-3.deps.json
+C:\Users\Arkan Zahrawaani\Documents\GitHub\Learning-2\Learning-3\Learning-3\bin\Debug\net7.0\Learning-3.runtimeconfig.json
+C:\Users\Arkan Zahrawaani\Documents\GitHub\Learning-2\Learning-3\Learning-3\bin\Debug\net7.0\Learning-3.dll
+C:\Users\Arkan Zahrawaani\Documents\GitHub\Learning-2\Learning-3\Learning-3\bin\Debug\net7.0\Learning-3.pdb
+C:\Users\Arkan Zahrawaani\Documents\GitHub\Learning-2\Learning-3\Learning-3\obj\Debug\net7.0\Learning-3.csproj.AssemblyReference.cache
+C:\Users\Arkan Zahrawaani\Documents\GitHub\Learning-2\Learning-3\Learning-3\obj\Debug\net7.0\Learning-3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arkan Zahrawaani\Documents\GitHub\Learning-2\Learning-3\Learning-3\obj\Debug\net7.0\Learning-3.AssemblyInfoInputs.cache
+C:\Users\Arkan Zahrawaani\Documents\GitHub\Learning-2\Learning-3\Learning-3\obj\Debug\net7.0\Learning-3.AssemblyInfo.cs
+C:\Users\Arkan Zahrawaani\Documents\GitHub\Learning-2\Learning-3\Learning-3\obj\Debug\net7.0\Learning-3.csproj.CoreCompileInputs.cache
+C:\Users\Arkan Zahrawaani\Documents\GitHub\Learning-2\Learning-3\Learning-3\obj\Debug\net7.0\Learning-3.dll
+C:\Users\Arkan Zahrawaani\Documents\GitHub\Learning-2\Learning-3\Learning-3\obj\Debug\net7.0\refint\Learning-3.dll
+C:\Users\Arkan Zahrawaani\Documents\GitHub\Learning-2\Learning-3\Learning-3\obj\Debug\net7.0\Learning-3.pdb
+C:\Users\Arkan Zahrawaani\Documents\GitHub\Learning-2\Learning-3\Learning-3\obj\Debug\net7.0\Learning-3.genruntimeconfig.cache
+C:\Users\Arkan Zahrawaani\Documents\GitHub\Learning-2\Learning-3\Learning-3\obj\Debug\net7.0\ref\Learning-3.dll
